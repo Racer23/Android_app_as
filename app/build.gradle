@@ -19,11 +19,11 @@ android {
         }
     }
 
-    sourceSets {
+   /* sourceSets {
         androidTest{
             java.srcDirs = ['src/com/example/huaner/targer/test']
         }
-    }
+    }*/
 }
 
 dependencies {
